@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Flux Lab",
+      "hasCanvas": true,
+      "bodyTextLen": 632,
+      "bodyTextHash": "7b405fc2e7da0f5533bb842cb01bf246fecdba232ba30160062a5493561e9ac8",
+      "bodyTextPrefix": "VOXEL FIELD Flux Lab Pause Inward swirl with lift Drag to orbit.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Flux Lab",
+      "hasCanvas": true,
+      "bodyTextLen": 626,
+      "bodyTextHash": "7b490cb32d51f6ff60f4332c130b6cddb6215769a8b42fadfebf373880e0895a",
+      "bodyTextPrefix": "VOXEL FIELD Flux Lab Inward swirl with lift Drag to orbit. Click",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
